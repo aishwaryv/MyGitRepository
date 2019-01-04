@@ -1,11 +1,14 @@
 class HelloWorld{
 
-public static void main (String args[]){
+        public static void main (String args[]){
+
+    void  myMethod(){
 
 
-
-
-system.out.print("HelloWorld..");
-
+                      system.out.print("HelloWorld.. welcome to git...!!!");
 }
+
+        public static void main (String args[]){
+
+         }
 }
